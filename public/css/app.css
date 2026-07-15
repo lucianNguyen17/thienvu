@@ -1008,3 +1008,11 @@ footer .wrapper {
 }
 
 /*# sourceMappingURL=app.css.map */
+.mt-5{
+    text-align: center;
+}
+
+.mb-3{
+  width: 50%;
+  align-items: center;
+}
